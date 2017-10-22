@@ -1,0 +1,28 @@
+body {
+	background-color: rgb(60, 179, 113);
+	margin: 0;
+}
+
+#header {
+	background-color: rgb(144, 238, 144);
+	height: 100px;
+}
+
+.recept {
+	overflow: hidden;
+	margin: auto;
+	background-color: rgb(50, 205, 50);
+	text-align: center;
+	width: 700px;
+}
+
+.recept p {
+	text-align: left;
+	margin-left: 15px;
+	margin-bottom: 45px;
+}
+
+img {
+	width: 600px;
+}
+
